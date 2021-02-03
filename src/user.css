@@ -1,0 +1,25 @@
+.main{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+.panel{
+width: 50%;
+float: left;
+}
+.form-group{
+    width: fit-content;
+    margin: auto;
+}
+input{
+    width: 100%;
+    display: block;
+    box-sizing: inherit;
+}
+.displayOn{
+    display: block;
+    color: red;
+}
+.displayOff{
+    display: none;
+}
